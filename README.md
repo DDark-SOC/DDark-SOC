@@ -1,6 +1,6 @@
 # Hİ, I'm DDark
 
-Entering the world of SOC. 🛡️ 
+Entering the world of SOC. 🛡️ <br />
 I’ll be documenting my labs, simulations, and hands-on cybersecurity journey along the way.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
